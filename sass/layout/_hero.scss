@@ -57,12 +57,7 @@
     }
   }
 
-  @media screen and (min-width: $tablet) {
-    // max-width: 768px;
-  }
-
-  @media screen and (min-width: $laptop) {
-    max-width: 1600px;
+@media screen and (min-width: $laptop) {
     max-height: 600px;
     padding: 200px;
   }
